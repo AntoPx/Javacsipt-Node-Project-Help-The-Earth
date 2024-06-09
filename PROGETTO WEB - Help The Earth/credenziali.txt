@@ -1,0 +1,7 @@
+USERNAME:			PASSWORD:		RUOLO:
+
+anto@gmail.com          antonio        creatore
+giulia@libero.it		giulia		creatore
+giorgio@libero.it		giorgio		creatore
+franco@gmail.com    	franco      finanziatore
+pino@gmail.com		    pino		finanziatore
